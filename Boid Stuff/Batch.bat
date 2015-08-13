@@ -1,3 +1,3 @@
 @echo off
-C:\python35\python.exe Boid.py
+C:\python35\python.exe Printer.py
 pause
